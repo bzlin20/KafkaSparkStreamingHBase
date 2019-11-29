@@ -1,0 +1,2 @@
+# KafkaSparkStreamingHBase
+模拟生产中flume收集Nginx服务器上日志信息传输到Kafka用SparkStreaming处理分析过滤将数据入HBase数据库
